@@ -18,9 +18,6 @@
 
 <h3>🌐 Find Me Here</h3>
 <p align="left">
-    <a href="https://github.com/1Mk7i" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-    </a>
     <a href="https://www.linkedin.com/in/igor-evlahovich-b25923337/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
